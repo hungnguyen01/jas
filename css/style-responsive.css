@@ -159,6 +159,9 @@
 
 @media (max-width: 600px) {}
 
-@media (max-width: 425px) {}
+@media (max-width: 425px) {
+    .box-chinhanh-main {
+    margin: 0px 0%;
+}}
 
 @media (max-width: 375px) {}
